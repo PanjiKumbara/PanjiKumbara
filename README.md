@@ -23,7 +23,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,postgres,figma" alt="Tech Stack" />
-  <img src="[https://img.icons8.com/color/48/000000/power-bi.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com.br%2Ficon%2FqYfwpsRXEcpc%2Fpower-bi&psig=AOvVaw01Kozeexkw5LuF-89tk3v6&ust=1751017448083000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCFmr3mjo4DFQAAAAAdAAAAABAL)" alt="Power BI" height="40" />
+  <img src="https://img.icons8.com/?size=512&id=qYfwpsRXEcpc&format=png" alt="Power BI" height="40" />
 </p>
 
 
