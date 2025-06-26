@@ -2,21 +2,28 @@
 <h3 align="center">Web Developer & Data Analyst Enthusiast</h3>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&width=435&lines=Turning+data+into+insights...;Building+responsive+web+apps...;Always+learning+something+new!+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="coding gif" />
+</p>
+
+<p align="center">
   🌱 I’m passionate about building responsive web apps and analyzing data for better decision-making.<br>
   🔭 Currently working on <strong>WebReportKendaraan</strong>, a vehicle report dashboard using React.js and Node.js.<br>
   💬 Ask me about JavaScript, SQL, React.js, or Power BI.<br>
   📫 Reach me at: <a href="mailto:kasirunpanji@gmail.com">kasirunpanji@gmail.com</a><br>
-  🌐 Portfolio: https://portofolio-panji-kumbara.vercel.app/
+  🌐 Portfolio: <a href="https://portofolio-panji-kumbara.vercel.app/" target="_blank">portofolio-panji-kumbara.vercel.app</a>
 </p>
 
 ---
 
 ### 🛠 Tech Stack
 
-- 💻 HTML | CSS | JavaScript
-- ⚛️ React.js | Node.js
-- 🗄️ SQL (MySQL, PostgreSQL)
-- 📊 Power BI | Data Analysis
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,postgres,figma,powerbi" alt="Tech Stack" />
+</p>
 
 ---
 
@@ -41,8 +48,14 @@
 
 ### 📫 Connect with Me
 
-<p>
-  <a href="https://linkedin.com/in/panji-kumbara">LinkedIn</a> • 
-  <a href="mailto:kasirunpanji@gmail.com">Email</a> • 
-  <a href="https://github.com/PanjiKumbara">GitHub</a>
+<p align="center">
+  <a href="https://linkedin.com/in/panji-kumbara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:kasirunpanji@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/PanjiKumbara">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
