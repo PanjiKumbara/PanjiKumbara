@@ -22,8 +22,10 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,postgres,figma,powerbi" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,postgres,figma" alt="Tech Stack" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" height="40" />
 </p>
+
 
 ---
 
