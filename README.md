@@ -5,7 +5,7 @@
   🌱 I’m passionate about building responsive web apps and analyzing data for better decision-making.<br>
   🔭 Currently working on <strong>WebReportKendaraan</strong>, a vehicle report dashboard using React.js and Node.js.<br>
   💬 Ask me about JavaScript, SQL, React.js, or Power BI.<br>
-  📫 Reach me at: <a href="mailto:your.email@example.com">your.email@example.com</a><br>
+  📫 Reach me at: <a href="mailto:kasirunpanji@gmail.com">kasirunpanji@gmail.com</a><br>
   🌐 Portfolio: Coming soon...
 </p>
 
