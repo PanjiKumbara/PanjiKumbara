@@ -42,7 +42,7 @@
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">LinkedIn</a> • 
-  <a href="mailto:your.email@example.com">Email</a> • 
+  <a href="https://linkedin.com/in/panjikumbara" target="_blank">LinkedIn</a> • 
+  <a href="mailto:kasirunpanji@gmail.com">Email</a> • 
   <a href="https://github.com/PanjiKumbara">GitHub</a>
 </p>
