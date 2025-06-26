@@ -6,7 +6,7 @@
   🔭 Currently working on <strong>WebReportKendaraan</strong>, a vehicle report dashboard using React.js and Node.js.<br>
   💬 Ask me about JavaScript, SQL, React.js, or Power BI.<br>
   📫 Reach me at: <a href="mailto:kasirunpanji@gmail.com">kasirunpanji@gmail.com</a><br>
-  🌐 Portfolio: Coming soon...
+  🌐 Portfolio: https://portofolio-panji-kumbara.vercel.app/
 </p>
 
 ---
@@ -42,7 +42,7 @@
 ### 📫 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/panjikumbara" target="_blank">LinkedIn</a> • 
+  <a href="https://linkedin.com/in/panji-kumbara">LinkedIn</a> • 
   <a href="mailto:kasirunpanji@gmail.com">Email</a> • 
   <a href="https://github.com/PanjiKumbara">GitHub</a>
 </p>
